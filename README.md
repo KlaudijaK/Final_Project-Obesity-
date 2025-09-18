@@ -1,4 +1,6 @@
 Obesity Level Prediction Project
+
+
 Overview
 This project aims to predict obesity levels using a dataset with various demographic, lifestyle, and health-related features. Our model leverages machine learning techniques to classify individuals into different obesity categories, providing a powerful tool for health insights.
 
